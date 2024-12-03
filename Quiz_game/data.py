@@ -1,0 +1,22 @@
+questions = [
+    {"text": "The capital of Australia is Sydney.", "answer": "False"},
+    {"text": "The human body has 206 bones.", "answer": "True"},
+    {"text": "The chemical symbol for gold is Au.", "answer": "True"},
+    {"text": "Mount Everest is located in the Andes mountain range.", "answer": "False"},
+    {"text": "The Great Wall of China is visible from the Moon.", "answer": "False"},
+    {"text": "Shakespeare wrote 'Hamlet'.", "answer": "True"},
+    {"text": "The speed of light is approximately 300,000 kilometers per second.", "answer": "True"},
+    {"text": "The element Helium is denser than air.", "answer": "False"},
+    {"text": "The boiling point of water is 90°C at sea level.", "answer": "False"},
+    {"text": "Venus is the hottest planet in the Solar System.", "answer": "True"},
+    {"text": "Albert Einstein developed the theory of general relativity.", "answer": "True"},
+    {"text": "The Mona Lisa was painted by Vincent van Gogh.", "answer": "False"},
+    {"text": "The primary ingredient in guacamole is avocado.", "answer": "True"},
+    {"text": "The Titanic sank in 1912.", "answer": "True"},
+    {"text": "Mars is also known as the Red Planet.", "answer": "True"},
+    {"text": "The currency of Japan is the Yen.", "answer": "True"},
+    {"text": "The sun is a star.", "answer": "True"},
+    {"text": "Lightning never strikes the same place twice.", "answer": "False"},
+    {"text": "The Statue of Liberty was a gift from France to the United States.", "answer": "True"},
+    {"text": "The Sahara Desert is the largest desert in the world.", "answer": "False"},  # Antarctic desert is largest
+]
